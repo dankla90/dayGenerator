@@ -1,0 +1,51 @@
+Biome,Hazard,DC,Consequence
+forest,Ensnaring vines,DC 14 Str (Athletics) or Dex (Acrobatics),"Spend half-day cutting through vines, delaying travel"
+forest,Hidden sinkholes,DC 14 Dex (Acrobatics) or Wis (Perception),Spend half-day finding alternative path
+forest,Unstable tree branches,DC 12 Dex (Acrobatics),"Lose 1d4 rations, half-day recovery from falls"
+forest,Webbed areas,DC 14 Str (Athletics) or Dex (Acrobatics),Spend half-day removing sticky webbing from gear
+forest,Dense fog,DC 14 Wis (Perception),"Lose direction, travel time doubled until fog clears"
+forest,Slippery rocks,DC 12 Dex (Acrobatics),Spend half-day carefully traversing slippery terrain
+forest,Fallen trees,DC 12 Str (Athletics),Spend half-day clearing fallen branches and debris
+forest,Treacherous ravines,DC 14 Dex (Acrobatics),Spend half-day finding safe crossing or alternate route
+forest,Natural pitfalls,DC 14 Dex (Acrobatics) or Wis (Perception),"Spend half-day backtracking, finding safer path"
+forest,Deep mud patches,DC 12 Str (Athletics) or Dex (Acrobatics),Spend half-day struggling in clinging mud
+hill,Loose scree,DC 14 Dex (Acrobatics),Spend half-day descending scree slope carefully
+hill,Narrow paths,DC 10 Dex (Acrobatics),Spend half-day navigating narrow path cautiously
+hill,Unstable rock formations,DC 14 Str (Athletics) or Dex (Acrobatics),Spend half-day finding detour around collapsed rockfall
+hill,Hidden crevices,DC 14 Wis (Perception),"Spend half-day carefully backtracking, finding safer route"
+hill,Sharp rocks,DC 10 Dex (Acrobatics),"Lose 1d4 rations, half-day tending to injuries and repairing equipment"
+hill,Strong gusts of wind,DC 14 Str (Athletics),Spend half-day waiting for wind to die down
+hill,Thorny bushes,DC 14 Str (Athletics) or Dex (Acrobatics),Spend half-day navigating dense thicket
+hill,Steep inclines,DC 14 Str (Athletics) or Dex (Acrobatics),Spend half-day ascending or descending slope
+hill,Cliff edges,DC 14 Dex (Acrobatics),Spend half-day finding safe path away from edge
+hill,Loose boulders,DC 14 Str (Athletics),Spend half-day carefully navigating around unstable boulders
+swamp,Quicksand pits,DC 14 Str (Athletics) or Dex (Acrobatics),Spend rest of day extricating from quicksand
+swamp,Thick mud,DC 10 Str (Athletics),Spend half-day slogging through thick mud
+swamp,Overgrown roots,DC 14 Str (Athletics) or Dex (Acrobatics),Spend half-day detouring around tangled roots
+swamp,Hidden pockets of water,DC 14 Wis (Perception),"Spend half-day drying off, finding safer route"
+swamp,Thick fog,DC 14 Wis (Perception),"Lose direction, travel time doubled until fog clears"
+swamp,Toxic gases,DC 14 Con,"Lose 1d4 rations, half-day recovering from inhaling toxic fumes"
+swamp,Boggy marshes,DC 10 Str (Athletics) or Dex (Acrobatics),Spend half-day navigating treacherous marshland
+swamp,Mysterious sinkholes,DC 14 Wis (Perception),Spend rest of day avoiding potential sinkholes
+swamp,Leech-infested waters,DC 14 Con,"Lose 1d4 rations, half-day removing leeches and treating wounds"
+swamp,Treacherous logs and rocks,DC 10 Dex (Acrobatics),Spend half-day navigating through unstable terrain
+mountain,Ice-covered paths,DC 14 Dex (Acrobatics),Spend half-day navigating icy terrain
+mountain,Avalanche slopes,DC 14 Dex (Acrobatics),Spend rest of day digging out from snow
+mountain,Narrow passes,DC 14 Dex (Acrobatics),Spend half-day navigating narrow pass cautiously
+mountain,Icy patches,DC 14 Dex (Acrobatics),Spend half-day cautiously crossing icy patches
+mountain,Unstable scree slopes,DC 14 Str (Athletics) or Dex (Acrobatics),Spend half-day traversing unstable scree slope
+mountain,Swift river crossings,DC 14 Str (Athletics) or Dex (Acrobatics),"Spend rest of day drying off, recovering from being swept away"
+mountain,Deceptive ridges,DC 14 Wis (Perception),"Lose 1d4 rations, spend half-day retracing steps after going off course"
+mountain,Precarious bridges,DC 14 Dex (Acrobatics),Spend half-day repairing damaged bridge
+mountain,Thin air,DC 14 Con,"Lose 1d4 rations, spend half-day resting and acclimating to high altitude"
+mountain,Jagged cliffs,DC 14 Str (Athletics) or Dex (Acrobatics),Spend half-day finding safe path around cliffs
+plane,Endless terrain,DC 14 Wis (Survival),Spend half-day finding way back to main trail
+plane,Sudden sinkholes,DC 14 Wis (Perception),Spend rest of day navigating around potential sinkholes
+plane,Flash floods,DC 14 Dex (Acrobatics) or Str (Athletics),"Lose 1d4 rations, spend rest of day recovering from flood"
+plane,Blistering heat,DC 14 Con,Spend half-day resting in shade to prevent heat exhaustion
+plane,Dust storms,DC 14 Wis (Perception),"Lose direction, travel time doubled until storm clears"
+plane,Gullies and ravines,DC 14 Str (Athletics) or Dex (Acrobatics),Spend half-day finding safe path around obstacles
+plane,Sweltering heat,DC 14 Con,"Lose 1d4 rations, spend half-day resting and seeking shade to prevent heat-related illnesses"
+plane,Thorny bushes and cacti,DC 14 Dex (Acrobatics),"Lose 1d4 rations, spend half-day navigating through dense vegetation"
+plane,Loose sandy soil,DC 10 Str (Athletics),Spend half-day carefully traversing unstable ground
+plane,Harsh winds,DC 14 Str (Athletics) or Dex (Acrobatics),Spend half-day waiting for winds to die down

@@ -1,0 +1,482 @@
+Month,Day,Low °C,High °C,Precipitation,Clouds,Feature,Wind,MPH,Dir,Description,Weather,Precip,Temp,Next,Adj,Length
+Tīr,1,12,23,Pounding rain,Dark storm clouds,,Fresh gale,39–46,N,Twigs break off trees and general progress is impeded,918,TRUE,16,23,16,48
+Tīr,2,13,21,None,Mostly cloudy,,Light air,1–3,S,Wind direction shown by smoke but not wind vanes,962,FALSE,16,23,16,48
+Tīr,3,11,22,None,Clear,,Light breeze,4–7,N,"Wind felt on face, leaves rustle, vanes move",766,FALSE,16,23,16,48
+Tīr,4,11,18,None,Mostly cloudy,,Light breeze,4–7,N,"Wind felt on face, leaves rustle, vanes move",843,FALSE,16,23,16,48
+Tīr,5,14,19,None,Clear,,Light air,1–3,N,Wind direction shown by smoke but not wind vanes,538,FALSE,16,23,16,48
+Tīr,6,12,23,None,Mostly cloudy,,Moderate breeze,13–18,SW,"Small branches move, and dust and small branches are raised",322,FALSE,16,23,16,48
+Tīr,7,11,19,None,A few clouds,,Light breeze,4–7,S,"Wind felt on face, leaves rustle, vanes move",21,FALSE,16,23,16,48
+Tīr,8,12,22,None,A few clouds,,Calm,<1,N,Smoke rises vertically,422,FALSE,16,23,16,48
+Tīr,9,11,23,Strong rainfall,"Gray, highly overcast",,Moderate breeze,13–18,N,"Small branches move, and dust and small branches are raised",461,TRUE,16,23,16,48
+Tīr,10,13,22,None,A few clouds,,Gentle breeze,8–12,S,Leaves and small twigs sway and banners flap,802,FALSE,16,23,16,48
+Tīr,11,13,19,None,Clear,,Moderate breeze,13–18,NW,"Small branches move, and dust and small branches are raised",373,FALSE,16,23,16,48
+Tīr,12,14,19,None,Clear,,Calm,<1,S,Smoke rises vertically,296,FALSE,16,23,16,48
+Tīr,13,12,23,None,Clear,,Moderate gale,32–38,NE,Whole trees sway and walking against wind takes some effort,733,FALSE,16,23,16,48
+Tīr,14,12,21,None,Mostly cloudy,,Strong breeze,25–31,NE,Large branches move,924,FALSE,16,23,16,48
+Tīr,15,9,19,None,A few clouds,,Light air,1–3,S,Wind direction shown by smoke but not wind vanes,254,FALSE,16,23,16,48
+Tīr,16,11,23,Light mist,A few clouds,,Light air,1–3,E,Wind direction shown by smoke but not wind vanes,872,TRUE,16,23,16,48
+Tīr,17,11,20,Drizzle,Mostly cloudy,,Gentle breeze,8–12,NW,Leaves and small twigs sway and banners flap,357,TRUE,16,23,16,48
+Tīr,18,14,20,None,A few clouds,,Hurricane,73–136,NW,Widespread devastation occurs,661,FALSE,16,23,16,48
+Tīr,19,10,22,None,Mostly cloudy,,Light breeze,4–7,W,"Wind felt on face, leaves rustle, vanes move",513,FALSE,16,23,16,48
+Tīr,20,11,20,Downpour,Dark storm clouds,,Strong breeze,25–31,E,Large branches move,973,TRUE,16,23,16,48
+Tīr,21,10,21,None,Clear,,Light breeze,4–7,N,"Wind felt on face, leaves rustle, vanes move",260,FALSE,16,23,16,48
+Tīr,22,9,20,None,A few clouds,,Strong breeze,25–31,N,Large branches move,899,FALSE,16,23,16,48
+Tīr,23,9,21,None,A few clouds,,Light breeze,4–7,W,"Wind felt on face, leaves rustle, vanes move",760,FALSE,16,23,16,48
+Tīr,24,13,22,None,A few clouds,,Gentle breeze,8–12,SE,Leaves and small twigs sway and banners flap,220,FALSE,16,23,16,48
+Tīr,25,10,19,Downpour,Dark storm clouds,Lightning,Strong breeze,25–31,NW,Large branches move,901,TRUE,16,23,16,48
+Tīr,26,10,21,None,Clear,,Light breeze,4–7,SW,"Wind felt on face, leaves rustle, vanes move",198,FALSE,16,23,16,48
+Tīr,27,12,18,Light mist,A few clouds,,Light air,1–3,NE,Wind direction shown by smoke but not wind vanes,524,TRUE,16,23,16,48
+Tīr,28,10,21,None,Clear,,Calm,<1,NW,Smoke rises vertically,410,FALSE,16,23,16,48
+Tīr,29,10,23,Steady rainfall,"Gray, slightly overcast",,Light air,1–3,SE,Wind direction shown by smoke but not wind vanes,616,TRUE,16,23,16,48
+Tīr,30,13,18,Steady rainfall,"Gray, slightly overcast",,Light air,1–3,S,Wind direction shown by smoke but not wind vanes,430,TRUE,16,23,16,48
+Tīr,31,11,22,None,A few clouds,,Moderate gale,32–38,E,Whole trees sway and walking against wind takes some effort,708,FALSE,16,23,16,48
+Tīr,32,14,18,None,A few clouds,,Light breeze,4–7,NW,"Wind felt on face, leaves rustle, vanes move",71,FALSE,16,23,16,48
+Tīr,33,11,23,Downpour,Dark storm clouds,,Fresh breeze,19–24,SW,Small trees sway and small waves form on inland waters,709,TRUE,16,23,16,48
+Tīr,34,11,23,None,A few clouds,,Moderate breeze,13–18,NE,"Small branches move, and dust and small branches are raised",856,FALSE,16,23,16,48
+Tīr,35,12,22,None,Clear,,Strong breeze,25–31,N,Large branches move,498,FALSE,16,23,16,48
+Tīr,36,14,18,Pounding rain,Dark storm clouds,"Lightning, hail",Fresh breeze,19–24,W,Small trees sway and small waves form on inland waters,804,TRUE,16,23,16,48
+Tīr,37,9,19,None,Clear,,Strong gale,47–54,NW,Slight structural damage occurs,271,FALSE,16,23,16,48
+Tīr,38,9,18,Downpour,Dark storm clouds,"Lightning, hail",Storm,55–63,S,Trees are uprooted and considerable structural damage occurs,427,TRUE,16,23,16,48
+Tīr,39,9,23,None,Mostly cloudy,,Light breeze,4–7,SE,"Wind felt on face, leaves rustle, vanes move",257,FALSE,16,23,16,48
+Tīr,40,14,23,None,Clear,,Light breeze,4–7,W,"Wind felt on face, leaves rustle, vanes move",730,FALSE,16,23,16,48
+Tīr,41,11,18,None,Clear,,Moderate breeze,13–18,SE,"Small branches move, and dust and small branches are raised",826,FALSE,16,23,16,48
+Tīr,42,10,23,None,Clear,,Strong breeze,25–31,NW,Large branches move,186,FALSE,16,23,16,48
+Tīr,43,11,19,Light mist,A few clouds,,Light air,1–3,NE,Wind direction shown by smoke but not wind vanes,236,TRUE,16,23,16,48
+Tīr,44,13,21,None,Mostly cloudy,,Moderate breeze,13–18,SW,"Small branches move, and dust and small branches are raised",721,FALSE,16,23,16,48
+Tīr,45,10,21,Light mist,A few clouds,,Calm,<1,W,Smoke rises vertically,488,TRUE,16,23,16,48
+Tīr,46,10,22,None,Clear,,Light air,1–3,NE,Wind direction shown by smoke but not wind vanes,32,FALSE,16,23,16,48
+Tīr,47,14,21,Downpour,Dark storm clouds,Lightning,Violent storm,64–72,E,Widespread damage occurs,865,TRUE,16,23,16,48
+Tīr,48,9,22,None,Clear,,Strong breeze,25–31,NW,Large branches move,901,FALSE,16,23,16,48
+Araḫ Āru,1,16,29,None,Mostly cloudy,,Gentle breeze,8–12,N,Leaves and small twigs sway and banners flap,958,FALSE,23,35,23,48
+Araḫ Āru,2,16,29,None,Clear,,Fresh gale,39–46,E,Twigs break off trees and general progress is impeded,96,FALSE,23,35,23,48
+Araḫ Āru,3,21,28,None,A few clouds,,Light breeze,4–7,SE,"Wind felt on face, leaves rustle, vanes move",227,FALSE,23,35,23,48
+Araḫ Āru,4,17,26,None,Clear,,Fresh breeze,19–24,SW,Small trees sway and small waves form on inland waters,390,FALSE,23,35,23,48
+Araḫ Āru,5,21,29,Light mist,A few clouds,,Light breeze,4–7,NW,"Wind felt on face, leaves rustle, vanes move",896,TRUE,23,35,23,48
+Araḫ Āru,6,21,30,Pounding rain,Dark storm clouds,,Light air,1–3,NW,Wind direction shown by smoke but not wind vanes,534,TRUE,23,35,23,48
+Araḫ Āru,7,21,28,None,Clear,,Calm,<1,NE,Smoke rises vertically,794,FALSE,23,35,23,48
+Araḫ Āru,8,16,29,None,A few clouds,,Gentle breeze,8–12,SW,Leaves and small twigs sway and banners flap,978,FALSE,23,35,23,48
+Araḫ Āru,9,18,26,None,Clear,,Moderate breeze,13–18,N,"Small branches move, and dust and small branches are raised",346,FALSE,23,35,23,48
+Araḫ Āru,10,17,26,Drizzle,Mostly cloudy,,Calm,<1,NW,Smoke rises vertically,585,TRUE,23,35,23,48
+Araḫ Āru,11,18,26,Light mist,A few clouds,Fog,Calm,<1,NE,Smoke rises vertically,14,TRUE,23,35,23,48
+Araḫ Āru,12,21,27,Pounding rain,Dark storm clouds,,Moderate gale,32–38,NW,Whole trees sway and walking against wind takes some effort,168,TRUE,23,35,23,48
+Araḫ Āru,13,17,28,None,Mostly cloudy,,Gentle breeze,8–12,SE,Leaves and small twigs sway and banners flap,675,FALSE,23,35,23,48
+Araḫ Āru,14,20,28,Downpour,Dark storm clouds,,Fresh breeze,19–24,NW,Small trees sway and small waves form on inland waters,307,TRUE,23,35,23,48
+Araḫ Āru,15,21,28,None,A few clouds,,Gentle breeze,8–12,S,Leaves and small twigs sway and banners flap,221,FALSE,23,35,23,48
+Araḫ Āru,16,18,29,None,Mostly cloudy,,Light breeze,4–7,E,"Wind felt on face, leaves rustle, vanes move",605,FALSE,23,35,23,48
+Araḫ Āru,17,19,28,Downpour,Dark storm clouds,Lightning,Gentle breeze,8–12,E,Leaves and small twigs sway and banners flap,289,TRUE,23,35,23,48
+Araḫ Āru,18,21,27,None,A few clouds,,Light breeze,4–7,N,"Wind felt on face, leaves rustle, vanes move",572,FALSE,23,35,23,48
+Araḫ Āru,19,16,25,None,A few clouds,,Light air,1–3,N,Wind direction shown by smoke but not wind vanes,519,FALSE,23,35,23,48
+Araḫ Āru,20,21,30,Pounding rain,Dark storm clouds,,Moderate gale,32–38,NW,Whole trees sway and walking against wind takes some effort,888,TRUE,23,35,23,48
+Araḫ Āru,21,17,29,None,Clear,,Light air,1–3,S,Wind direction shown by smoke but not wind vanes,518,FALSE,23,35,23,48
+Araḫ Āru,22,18,28,None,Clear,,Light breeze,4–7,NE,"Wind felt on face, leaves rustle, vanes move",514,FALSE,23,35,23,48
+Araḫ Āru,23,18,25,None,Clear,,Light air,1–3,E,Wind direction shown by smoke but not wind vanes,740,FALSE,23,35,23,48
+Araḫ Āru,24,19,28,None,Clear,,Light air,1–3,SE,Wind direction shown by smoke but not wind vanes,319,FALSE,23,35,23,48
+Araḫ Āru,25,21,27,Drizzle,Mostly cloudy,Fog,Calm,<1,NE,Smoke rises vertically,669,TRUE,23,35,23,48
+Araḫ Āru,26,21,29,None,Clear,,Fresh breeze,19–24,W,Small trees sway and small waves form on inland waters,779,FALSE,23,35,23,48
+Araḫ Āru,27,20,29,None,A few clouds,,Fresh breeze,19–24,E,Small trees sway and small waves form on inland waters,209,FALSE,23,35,23,48
+Araḫ Āru,28,21,28,None,Clear,,Strong breeze,25–31,NW,Large branches move,119,FALSE,23,35,23,48
+Araḫ Āru,29,17,28,Strong rainfall,"Gray, highly overcast",Hail,Light air,1–3,SW,Wind direction shown by smoke but not wind vanes,803,TRUE,23,35,23,48
+Araḫ Āru,30,20,29,Pounding rain,Dark storm clouds,,Light breeze,4–7,N,"Wind felt on face, leaves rustle, vanes move",732,TRUE,23,35,23,48
+Araḫ Āru,31,20,30,Downpour,Dark storm clouds,Lightning,Moderate breeze,13–18,SW,"Small branches move, and dust and small branches are raised",211,TRUE,23,35,23,48
+Araḫ Āru,32,16,30,Light mist,A few clouds,Fog,Light air,1–3,E,Wind direction shown by smoke but not wind vanes,464,TRUE,23,35,23,48
+Araḫ Āru,33,22,26,Pounding rain,Dark storm clouds,"Lightning, hail",Moderate breeze,13–18,SE,"Small branches move, and dust and small branches are raised",942,TRUE,23,35,24,48
+Araḫ Āru,34,21,32,Strong rainfall,"Gray, highly overcast",,Gentle breeze,8–12,SE,Leaves and small twigs sway and banners flap,887,TRUE,23,35,25,48
+Araḫ Āru,35,19,29,Pounding rain,Dark storm clouds,Hail,Strong breeze,25–31,SE,Large branches move,150,TRUE,23,35,26,48
+Araḫ Āru,36,22,32,None,Mostly cloudy,,Light air,1–3,SW,Wind direction shown by smoke but not wind vanes,536,FALSE,23,35,27,48
+Araḫ Āru,37,24,31,Steady rainfall,"Gray, slightly overcast",,Gentle breeze,8–12,W,Leaves and small twigs sway and banners flap,634,TRUE,23,35,28,48
+Araḫ Āru,38,27,35,Downpour,Dark storm clouds,,Calm,<1,SW,Smoke rises vertically,739,TRUE,23,35,29,48
+Araḫ Āru,39,23,34,None,Mostly cloudy,,Light air,1–3,NW,Wind direction shown by smoke but not wind vanes,133,FALSE,23,35,30,48
+Araḫ Āru,40,28,38,None,A few clouds,,Light air,1–3,SW,Wind direction shown by smoke but not wind vanes,712,FALSE,23,35,31,48
+Araḫ Āru,41,25,38,None,Clear,,Gentle breeze,8–12,S,Leaves and small twigs sway and banners flap,423,FALSE,23,35,32,48
+Araḫ Āru,42,30,40,None,A few clouds,,Strong breeze,25–31,SW,Large branches move,366,FALSE,23,35,33,48
+Araḫ Āru,43,27,39,None,Mostly cloudy,,Light breeze,4–7,S,"Wind felt on face, leaves rustle, vanes move",364,FALSE,23,35,34,48
+Araḫ Āru,44,31,40,None,Clear,,Light air,1–3,NE,Wind direction shown by smoke but not wind vanes,15,FALSE,23,35,35,48
+Araḫ Āru,45,31,42,None,Clear,,Light air,1–3,SE,Wind direction shown by smoke but not wind vanes,614,FALSE,23,35,36,48
+Araḫ Āru,46,35,41,Strong rainfall,"Gray, highly overcast",,Light breeze,4–7,NW,"Wind felt on face, leaves rustle, vanes move",71,TRUE,23,35,37,48
+Araḫ Āru,47,33,42,None,Mostly cloudy,,Light air,1–3,NE,Wind direction shown by smoke but not wind vanes,98,FALSE,23,35,38,48
+Araḫ Āru,48,34,45,Light mist,A few clouds,,Light air,1–3,S,Wind direction shown by smoke but not wind vanes,836,TRUE,23,35,39,48
+Turmar,1,29,37,None,Mostly cloudy,,Light breeze,4–7,N,"Wind felt on face, leaves rustle, vanes move",869,FALSE,35,35,35,48
+Turmar,2,29,39,None,Mostly cloudy,,Light breeze,4–7,W,"Wind felt on face, leaves rustle, vanes move",698,FALSE,35,35,35,48
+Turmar,3,29,37,None,A few clouds,,Light air,1–3,SE,Wind direction shown by smoke but not wind vanes,27,FALSE,35,35,35,48
+Turmar,4,31,41,None,Clear,,Light air,1–3,E,Wind direction shown by smoke but not wind vanes,64,FALSE,35,35,35,48
+Turmar,5,28,42,None,A few clouds,,Light air,1–3,W,Wind direction shown by smoke but not wind vanes,583,FALSE,35,35,35,48
+Turmar,6,32,39,None,Clear,,Strong gale,47–54,SE,Slight structural damage occurs,139,FALSE,35,35,35,48
+Turmar,7,28,41,Drizzle,Mostly cloudy,,Light breeze,4–7,E,"Wind felt on face, leaves rustle, vanes move",963,TRUE,35,35,35,48
+Turmar,8,29,37,Downpour,Dark storm clouds,,Calm,<1,NE,Smoke rises vertically,619,TRUE,35,35,35,48
+Turmar,9,31,39,None,Clear,,Light air,1–3,S,Wind direction shown by smoke but not wind vanes,705,FALSE,35,35,35,48
+Turmar,10,31,42,None,Clear,,Light air,1–3,NW,Wind direction shown by smoke but not wind vanes,940,FALSE,35,35,35,48
+Turmar,11,30,39,None,Clear,,Strong breeze,25–31,W,Large branches move,377,FALSE,35,35,35,48
+Turmar,12,31,39,None,Clear,,Moderate breeze,13–18,SW,"Small branches move, and dust and small branches are raised",721,FALSE,35,35,35,48
+Turmar,13,30,38,Downpour,Dark storm clouds,,Fresh breeze,19–24,W,Small trees sway and small waves form on inland waters,673,TRUE,35,35,35,48
+Turmar,14,28,42,None,Clear,,Light breeze,4–7,NW,"Wind felt on face, leaves rustle, vanes move",24,FALSE,35,35,35,48
+Turmar,15,31,38,Downpour,Dark storm clouds,"Lightning, hail",Strong gale,47–54,NE,Slight structural damage occurs,787,TRUE,35,35,35,48
+Turmar,16,33,39,None,Mostly cloudy,,Calm,<1,SW,Smoke rises vertically,20,FALSE,35,35,35,48
+Turmar,17,32,38,Light mist,A few clouds,,Light air,1–3,NW,Wind direction shown by smoke but not wind vanes,338,TRUE,35,35,35,48
+Turmar,18,32,39,Strong rainfall,"Gray, highly overcast",,Light air,1–3,W,Wind direction shown by smoke but not wind vanes,785,TRUE,35,35,35,48
+Turmar,19,30,42,None,Clear,,Fresh breeze,19–24,NE,Small trees sway and small waves form on inland waters,456,FALSE,35,35,35,48
+Turmar,20,29,37,None,Clear,,Gentle breeze,8–12,SE,Leaves and small twigs sway and banners flap,107,FALSE,35,35,35,48
+Turmar,21,28,37,None,Clear,,Gentle breeze,8–12,SE,Leaves and small twigs sway and banners flap,367,FALSE,35,35,35,48
+Turmar,22,33,42,Pounding rain,Dark storm clouds,Lightning,Moderate breeze,13–18,S,"Small branches move, and dust and small branches are raised",180,TRUE,35,35,35,48
+Turmar,23,31,40,None,Clear,,Light breeze,4–7,E,"Wind felt on face, leaves rustle, vanes move",676,FALSE,35,35,35,48
+Turmar,24,32,40,Steady rainfall,"Gray, slightly overcast",,Moderate breeze,13–18,NE,"Small branches move, and dust and small branches are raised",964,TRUE,35,35,35,48
+Turmar,25,28,38,None,Mostly cloudy,,Gentle breeze,8–12,S,Leaves and small twigs sway and banners flap,419,FALSE,35,35,35,48
+Turmar,26,28,40,None,Clear,,Gentle breeze,8–12,S,Leaves and small twigs sway and banners flap,586,FALSE,35,35,35,48
+Turmar,27,28,41,None,Clear,,Strong breeze,25–31,NE,Large branches move,977,FALSE,35,35,35,48
+Turmar,28,30,41,Light mist,A few clouds,,Light breeze,4–7,SE,"Wind felt on face, leaves rustle, vanes move",116,TRUE,35,35,35,48
+Turmar,29,32,42,Downpour,Dark storm clouds,Lightning,Gentle breeze,8–12,NE,Leaves and small twigs sway and banners flap,463,TRUE,35,35,35,48
+Turmar,30,32,37,None,Clear,,Storm,55–63,NW,Trees are uprooted and considerable structural damage occurs,703,FALSE,35,35,35,48
+Turmar,31,30,40,Light mist,A few clouds,Fog,Light air,1–3,NE,Wind direction shown by smoke but not wind vanes,98,TRUE,35,35,35,48
+Turmar,32,33,37,None,A few clouds,,Moderate breeze,13–18,NE,"Small branches move, and dust and small branches are raised",449,FALSE,35,35,35,48
+Turmar,33,33,38,Strong rainfall,"Gray, highly overcast",,Light breeze,4–7,NW,"Wind felt on face, leaves rustle, vanes move",71,TRUE,35,35,35,48
+Turmar,34,31,42,None,Clear,,Gentle breeze,8–12,NW,Leaves and small twigs sway and banners flap,42,FALSE,35,35,35,48
+Turmar,35,32,40,Downpour,Dark storm clouds,,Strong breeze,25–31,E,Large branches move,973,TRUE,35,35,35,48
+Turmar,36,28,40,None,Clear,,Light air,1–3,NW,Wind direction shown by smoke but not wind vanes,88,FALSE,35,35,35,48
+Turmar,37,31,37,Downpour,Dark storm clouds,,Moderate breeze,13–18,S,"Small branches move, and dust and small branches are raised",115,TRUE,35,35,35,48
+Turmar,38,28,41,Steady rainfall,"Gray, slightly overcast",,Gentle breeze,8–12,S,Leaves and small twigs sway and banners flap,916,TRUE,35,35,35,48
+Turmar,39,28,38,None,Clear,,Light breeze,4–7,S,"Wind felt on face, leaves rustle, vanes move",311,FALSE,35,35,35,48
+Turmar,40,30,38,None,A few clouds,,Gentle breeze,8–12,E,Leaves and small twigs sway and banners flap,717,FALSE,35,35,35,48
+Turmar,41,30,42,None,Clear,,Moderate breeze,13–18,NW,"Small branches move, and dust and small branches are raised",328,FALSE,35,35,35,48
+Turmar,42,33,41,Light mist,A few clouds,Fog,Light air,1–3,E,Wind direction shown by smoke but not wind vanes,464,TRUE,35,35,35,48
+Turmar,43,30,37,None,Clear,,Light air,1–3,NE,Wind direction shown by smoke but not wind vanes,33,FALSE,35,35,35,48
+Turmar,44,28,37,None,A few clouds,,Gentle breeze,8–12,SE,Leaves and small twigs sway and banners flap,367,FALSE,35,35,35,48
+Turmar,45,30,42,Drizzle,Mostly cloudy,,Light air,1–3,S,Wind direction shown by smoke but not wind vanes,339,TRUE,35,35,35,48
+Turmar,46,33,42,Steady rainfall,"Gray, slightly overcast",,Light breeze,4–7,N,"Wind felt on face, leaves rustle, vanes move",370,TRUE,35,35,35,48
+Turmar,47,32,42,Strong rainfall,"Gray, highly overcast",,Light breeze,4–7,N,"Wind felt on face, leaves rustle, vanes move",941,TRUE,35,35,35,48
+Turmar,48,28,38,Downpour,Dark storm clouds,Lightning,Light breeze,4–7,NW,"Wind felt on face, leaves rustle, vanes move",781,TRUE,35,35,35,48
+Araharu,1,32,40,None,Clear,,Light air,1–3,NW,Wind direction shown by smoke but not wind vanes,387,FALSE,35,22,35,48
+Araharu,2,31,38,None,A few clouds,,Light breeze,4–7,S,"Wind felt on face, leaves rustle, vanes move",842,FALSE,35,22,35,48
+Araharu,3,33,41,Steady rainfall,"Gray, slightly overcast",,Light breeze,4–7,E,"Wind felt on face, leaves rustle, vanes move",232,TRUE,35,22,35,48
+Araharu,4,33,42,None,Clear,,Light air,1–3,E,Wind direction shown by smoke but not wind vanes,64,FALSE,35,22,35,48
+Araharu,5,29,40,None,A few clouds,,Fresh breeze,19–24,W,Small trees sway and small waves form on inland waters,673,FALSE,35,22,35,48
+Araharu,6,30,37,Pounding rain,Dark storm clouds,,Moderate gale,32–38,NE,Whole trees sway and walking against wind takes some effort,558,TRUE,35,22,35,48
+Araharu,7,31,41,None,Clear,,Gentle breeze,8–12,NE,Leaves and small twigs sway and banners flap,881,FALSE,35,22,35,48
+Araharu,8,31,42,None,A few clouds,,Light breeze,4–7,N,"Wind felt on face, leaves rustle, vanes move",554,FALSE,35,22,35,48
+Araharu,9,29,39,Pounding rain,Dark storm clouds,Lightning,Light breeze,4–7,NW,"Wind felt on face, leaves rustle, vanes move",396,TRUE,35,22,35,48
+Araharu,10,32,42,None,Clear,,Gentle breeze,8–12,NE,Leaves and small twigs sway and banners flap,118,FALSE,35,22,35,48
+Araharu,11,33,41,Steady rainfall,"Gray, slightly overcast",,Gentle breeze,8–12,S,Leaves and small twigs sway and banners flap,142,TRUE,35,22,35,48
+Araharu,12,31,41,None,Mostly cloudy,,Moderate breeze,13–18,W,"Small branches move, and dust and small branches are raised",486,FALSE,35,22,35,48
+Araharu,13,29,37,None,Clear,,Fresh gale,39–46,SE,Twigs break off trees and general progress is impeded,876,FALSE,35,22,35,48
+Araharu,14,33,42,Pounding rain,Dark storm clouds,"Lightning, hail",Moderate breeze,13–18,SE,"Small branches move, and dust and small branches are raised",942,TRUE,35,22,35,48
+Araharu,15,29,40,None,Clear,,Moderate breeze,13–18,S,"Small branches move, and dust and small branches are raised",7,FALSE,35,22,35,48
+Araharu,16,28,41,None,Mostly cloudy,,Light breeze,4–7,NE,"Wind felt on face, leaves rustle, vanes move",284,FALSE,35,22,35,48
+Araharu,17,28,37,None,A few clouds,,Fresh gale,39–46,NW,Twigs break off trees and general progress is impeded,847,FALSE,35,22,35,48
+Araharu,18,29,38,None,Clear,,Strong breeze,25–31,S,Large branches move,371,FALSE,35,22,35,48
+Araharu,19,32,42,Light mist,A few clouds,Fog,Light air,1–3,W,Wind direction shown by smoke but not wind vanes,446,TRUE,35,22,35,48
+Araharu,20,31,37,Light mist,A few clouds,,Light breeze,4–7,W,"Wind felt on face, leaves rustle, vanes move",44,TRUE,35,22,35,48
+Araharu,21,28,39,Light mist,A few clouds,,Light air,1–3,S,Wind direction shown by smoke but not wind vanes,836,TRUE,35,22,35,48
+Araharu,22,33,37,None,Clear,,Fresh breeze,19–24,E,Small trees sway and small waves form on inland waters,65,FALSE,35,22,35,48
+Araharu,23,31,38,None,A few clouds,,Gentle breeze,8–12,W,Leaves and small twigs sway and banners flap,431,FALSE,35,22,35,48
+Araharu,24,32,37,None,Clear,,Light air,1–3,N,Wind direction shown by smoke but not wind vanes,140,FALSE,35,22,35,48
+Araharu,25,32,40,Downpour,Dark storm clouds,Lightning,Violent storm,64–72,E,Widespread damage occurs,865,TRUE,35,22,35,48
+Araharu,26,33,38,Light mist,A few clouds,,Light breeze,4–7,NW,"Wind felt on face, leaves rustle, vanes move",896,TRUE,35,22,35,48
+Araharu,27,32,38,None,Clear,,Light breeze,4–7,NE,"Wind felt on face, leaves rustle, vanes move",83,FALSE,35,22,35,48
+Araharu,28,28,42,Light mist,A few clouds,,Light breeze,4–7,N,"Wind felt on face, leaves rustle, vanes move",554,TRUE,35,22,35,48
+Araharu,29,31,38,Downpour,Dark storm clouds,Lightning,Light breeze,4–7,W,"Wind felt on face, leaves rustle, vanes move",103,TRUE,35,22,35,48
+Araharu,30,31,42,Drizzle,Mostly cloudy,,Light air,1–3,W,Wind direction shown by smoke but not wind vanes,825,TRUE,35,22,35,48
+Araharu,31,30,39,Strong rainfall,"Gray, highly overcast",,Gentle breeze,8–12,SE,Leaves and small twigs sway and banners flap,299,TRUE,35,22,35,48
+Araharu,32,28,38,Strong rainfall,"Gray, highly overcast",,Strong breeze,25–31,NW,Large branches move,95,TRUE,35,22,35,48
+Araharu,33,30,38,Steady rainfall,"Gray, slightly overcast",,Light breeze,4–7,W,"Wind felt on face, leaves rustle, vanes move",892,TRUE,35,22,34,48
+Araharu,34,31,40,None,A few clouds,,Light breeze,4–7,W,"Wind felt on face, leaves rustle, vanes move",300,FALSE,35,22,33,48
+Araharu,35,30,38,Pounding rain,Dark storm clouds,"Lightning, hail",Moderate breeze,13–18,SE,"Small branches move, and dust and small branches are raised",942,TRUE,35,22,32,48
+Araharu,36,24,36,None,Clear,,Light breeze,4–7,SE,"Wind felt on face, leaves rustle, vanes move",291,FALSE,35,22,31,48
+Araharu,37,24,32,None,Mostly cloudy,,Fresh breeze,19–24,NE,Small trees sway and small waves form on inland waters,685,FALSE,35,22,30,48
+Araharu,38,25,36,Light mist,A few clouds,,Calm,<1,NW,Smoke rises vertically,290,TRUE,35,22,29,48
+Araharu,39,24,30,None,Clear,,Moderate gale,32–38,S,Whole trees sway and walking against wind takes some effort,264,FALSE,35,22,28,48
+Araharu,40,21,33,None,A few clouds,,Fresh breeze,19–24,E,Small trees sway and small waves form on inland waters,479,FALSE,35,22,27,48
+Araharu,41,23,33,None,Clear,,Light air,1–3,NW,Wind direction shown by smoke but not wind vanes,593,FALSE,35,22,26,48
+Araharu,42,20,32,Drizzle,Mostly cloudy,,Light breeze,4–7,NW,"Wind felt on face, leaves rustle, vanes move",81,TRUE,35,22,25,48
+Araharu,43,20,28,Steady rainfall,"Gray, slightly overcast",Hail,Light air,1–3,W,Wind direction shown by smoke but not wind vanes,550,TRUE,35,22,24,48
+Araharu,44,20,27,Light mist,A few clouds,,Light breeze,4–7,SE,"Wind felt on face, leaves rustle, vanes move",200,TRUE,35,22,23,48
+Araharu,45,19,26,Drizzle,Mostly cloudy,,Light air,1–3,NE,Wind direction shown by smoke but not wind vanes,75,TRUE,35,22,22,48
+Araharu,46,18,24,None,A few clouds,,Moderate gale,32–38,SW,Whole trees sway and walking against wind takes some effort,492,FALSE,35,22,21,48
+Araharu,47,13,26,Pounding rain,Dark storm clouds,,Light breeze,4–7,N,"Wind felt on face, leaves rustle, vanes move",210,TRUE,35,22,20,48
+Araharu,48,12,22,Drizzle,Mostly cloudy,,Light air,1–3,W,Wind direction shown by smoke but not wind vanes,825,TRUE,35,22,19,48
+Ensinahad,1,18,29,None,A few clouds,,Light breeze,4–7,S,"Wind felt on face, leaves rustle, vanes move",989,FALSE,22,22,22,48
+Ensinahad,2,20,27,None,Clear,,Storm,55–63,S,Trees are uprooted and considerable structural damage occurs,427,FALSE,22,22,22,48
+Ensinahad,3,19,27,None,Mostly cloudy,,Light air,1–3,NE,Wind direction shown by smoke but not wind vanes,236,FALSE,22,22,22,48
+Ensinahad,4,19,26,None,Clear,,Strong breeze,25–31,W,Large branches move,91,FALSE,22,22,22,48
+Ensinahad,5,16,25,Downpour,Dark storm clouds,,Light air,1–3,SE,Wind direction shown by smoke but not wind vanes,565,TRUE,22,22,22,48
+Ensinahad,6,17,29,None,Clear,,Calm,<1,E,Smoke rises vertically,165,FALSE,22,22,22,48
+Ensinahad,7,18,27,Steady rainfall,"Gray, slightly overcast",,Moderate breeze,13–18,NE,"Small branches move, and dust and small branches are raised",886,TRUE,22,22,22,48
+Ensinahad,8,16,29,None,Clear,,Light air,1–3,S,Wind direction shown by smoke but not wind vanes,898,FALSE,22,22,22,48
+Ensinahad,9,19,29,Pounding rain,Dark storm clouds,Lightning,Fresh breeze,19–24,NE,Small trees sway and small waves form on inland waters,132,TRUE,22,22,22,48
+Ensinahad,10,15,28,Strong rainfall,"Gray, highly overcast",,Light air,1–3,E,Wind direction shown by smoke but not wind vanes,113,TRUE,22,22,22,48
+Ensinahad,11,20,24,Pounding rain,Dark storm clouds,,Moderate breeze,13–18,SW,"Small branches move, and dust and small branches are raised",720,TRUE,22,22,22,48
+Ensinahad,12,16,25,Drizzle,Mostly cloudy,,Gentle breeze,8–12,N,Leaves and small twigs sway and banners flap,783,TRUE,22,22,22,48
+Ensinahad,13,17,29,Strong rainfall,"Gray, highly overcast",Hail,Gentle breeze,8–12,S,Leaves and small twigs sway and banners flap,383,TRUE,22,22,22,48
+Ensinahad,14,16,25,None,Clear,,Gentle breeze,8–12,SE,Leaves and small twigs sway and banners flap,367,FALSE,22,22,22,48
+Ensinahad,15,15,26,Downpour,Dark storm clouds,,Light air,1–3,E,Wind direction shown by smoke but not wind vanes,457,TRUE,22,22,22,48
+Ensinahad,16,17,29,Pounding rain,Dark storm clouds,,Light breeze,4–7,NW,"Wind felt on face, leaves rustle, vanes move",24,TRUE,22,22,22,48
+Ensinahad,17,15,27,Drizzle,Mostly cloudy,,Light air,1–3,SE,Wind direction shown by smoke but not wind vanes,795,TRUE,22,22,22,48
+Ensinahad,18,16,24,Downpour,Dark storm clouds,,Storm,55–63,NW,Trees are uprooted and considerable structural damage occurs,703,TRUE,22,22,22,48
+Ensinahad,19,18,26,None,Mostly cloudy,,Gentle breeze,8–12,NE,Leaves and small twigs sway and banners flap,181,FALSE,22,22,22,48
+Ensinahad,20,18,27,None,Clear,,Moderate gale,32–38,N,Whole trees sway and walking against wind takes some effort,481,FALSE,22,22,22,48
+Ensinahad,21,15,25,None,Clear,,Light air,1–3,W,Wind direction shown by smoke but not wind vanes,201,FALSE,22,22,22,48
+Ensinahad,22,15,26,Strong rainfall,"Gray, highly overcast",,Fresh breeze,19–24,S,Small trees sway and small waves form on inland waters,395,TRUE,22,22,22,48
+Ensinahad,23,15,26,Steady rainfall,"Gray, slightly overcast",,Light breeze,4–7,NE,"Wind felt on face, leaves rustle, vanes move",148,TRUE,22,22,22,48
+Ensinahad,24,20,24,Steady rainfall,"Gray, slightly overcast",,Gentle breeze,8–12,NE,Leaves and small twigs sway and banners flap,100,TRUE,22,22,22,48
+Ensinahad,25,15,29,None,A few clouds,,Light air,1–3,S,Wind direction shown by smoke but not wind vanes,77,FALSE,22,22,22,48
+Ensinahad,26,19,24,None,Clear,,Gentle breeze,8–12,E,Leaves and small twigs sway and banners flap,545,FALSE,22,22,22,48
+Ensinahad,27,16,25,None,Mostly cloudy,,Light air,1–3,SW,Wind direction shown by smoke but not wind vanes,125,FALSE,22,22,22,48
+Ensinahad,28,20,29,Pounding rain,Dark storm clouds,Lightning,Gentle breeze,8–12,NE,Leaves and small twigs sway and banners flap,828,TRUE,22,22,22,48
+Ensinahad,29,20,29,Light mist,A few clouds,,Light air,1–3,N,Wind direction shown by smoke but not wind vanes,2,TRUE,22,22,22,48
+Ensinahad,30,20,26,None,Mostly cloudy,,Fresh breeze,19–24,NE,Small trees sway and small waves form on inland waters,493,FALSE,22,22,22,48
+Ensinahad,31,20,29,Steady rainfall,"Gray, slightly overcast",Hail,Light breeze,4–7,NE,"Wind felt on face, leaves rustle, vanes move",514,TRUE,22,22,22,48
+Ensinahad,32,18,27,None,Clear,,Light breeze,4–7,N,"Wind felt on face, leaves rustle, vanes move",941,FALSE,22,22,22,48
+Ensinahad,33,15,26,None,A few clouds,,Gentle breeze,8–12,S,Leaves and small twigs sway and banners flap,802,FALSE,22,22,22,48
+Ensinahad,34,18,24,Light mist,A few clouds,Fog,Light air,1–3,NE,Wind direction shown by smoke but not wind vanes,170,TRUE,22,22,22,48
+Ensinahad,35,15,25,None,A few clouds,,Fresh breeze,19–24,SW,Small trees sway and small waves form on inland waters,709,FALSE,22,22,22,48
+Ensinahad,36,17,28,None,A few clouds,,Fresh breeze,19–24,E,Small trees sway and small waves form on inland waters,485,FALSE,22,22,22,48
+Ensinahad,37,19,26,None,Clear,,Light air,1–3,SE,Wind direction shown by smoke but not wind vanes,425,FALSE,22,22,22,48
+Ensinahad,38,18,27,None,Clear,,Moderate breeze,13–18,SE,"Small branches move, and dust and small branches are raised",216,FALSE,22,22,22,48
+Ensinahad,39,15,27,None,A few clouds,,Light air,1–3,NE,Wind direction shown by smoke but not wind vanes,32,FALSE,22,22,22,48
+Ensinahad,40,20,25,None,A few clouds,,Light breeze,4–7,N,"Wind felt on face, leaves rustle, vanes move",807,FALSE,22,22,22,48
+Ensinahad,41,15,26,None,Clear,,Moderate gale,32–38,NW,Whole trees sway and walking against wind takes some effort,168,FALSE,22,22,22,48
+Ensinahad,42,20,28,None,Clear,,Light air,1–3,SE,Wind direction shown by smoke but not wind vanes,112,FALSE,22,22,22,48
+Ensinahad,43,15,26,Pounding rain,Dark storm clouds,Lightning,Fresh breeze,19–24,SW,Small trees sway and small waves form on inland waters,342,TRUE,22,22,22,48
+Ensinahad,44,20,25,None,Clear,,Light air,1–3,N,Wind direction shown by smoke but not wind vanes,140,FALSE,22,22,22,48
+Ensinahad,45,15,28,None,Clear,,Fresh breeze,19–24,E,Small trees sway and small waves form on inland waters,23,FALSE,22,22,22,48
+Ensinahad,46,17,24,Light mist,A few clouds,,Light breeze,4–7,SE,"Wind felt on face, leaves rustle, vanes move",482,TRUE,22,22,22,48
+Ensinahad,47,15,26,None,A few clouds,,Light air,1–3,N,Wind direction shown by smoke but not wind vanes,946,FALSE,22,22,22,48
+Ensinahad,48,15,27,None,A few clouds,,Light air,1–3,E,Wind direction shown by smoke but not wind vanes,226,FALSE,22,22,22,48
+Sākurriziš,1,19,24,None,Clear,,Calm,<1,NE,Smoke rises vertically,14,FALSE,22,22,22,48
+Sākurriziš,2,15,26,None,Mostly cloudy,,Gentle breeze,8–12,SE,Leaves and small twigs sway and banners flap,299,FALSE,22,22,22,48
+Sākurriziš,3,15,26,None,Mostly cloudy,,Fresh breeze,19–24,E,Small trees sway and small waves form on inland waters,618,FALSE,22,22,22,48
+Sākurriziš,4,15,29,None,A few clouds,,Light breeze,4–7,NE,"Wind felt on face, leaves rustle, vanes move",277,FALSE,22,22,22,48
+Sākurriziš,5,18,29,Pounding rain,Dark storm clouds,Lightning,Strong breeze,25–31,W,Large branches move,54,TRUE,22,22,22,48
+Sākurriziš,6,18,27,Drizzle,Mostly cloudy,,Gentle breeze,8–12,SE,Leaves and small twigs sway and banners flap,663,TRUE,22,22,22,48
+Sākurriziš,7,15,26,None,Clear,,Light breeze,4–7,E,"Wind felt on face, leaves rustle, vanes move",688,FALSE,22,22,22,48
+Sākurriziš,8,20,28,Light mist,A few clouds,,Light breeze,4–7,N,"Wind felt on face, leaves rustle, vanes move",554,TRUE,22,22,22,48
+Sākurriziš,9,16,26,None,A few clouds,,Light breeze,4–7,NW,"Wind felt on face, leaves rustle, vanes move",632,FALSE,22,22,22,48
+Sākurriziš,10,17,26,Drizzle,Mostly cloudy,Fog,Light air,1–3,SW,Wind direction shown by smoke but not wind vanes,465,TRUE,22,22,22,48
+Sākurriziš,11,15,25,Pounding rain,Dark storm clouds,,Light breeze,4–7,NW,"Wind felt on face, leaves rustle, vanes move",24,TRUE,22,22,22,48
+Sākurriziš,12,20,28,None,Mostly cloudy,,Light air,1–3,NE,Wind direction shown by smoke but not wind vanes,170,FALSE,22,22,22,48
+Sākurriziš,13,19,25,Light mist,A few clouds,,Calm,<1,W,Smoke rises vertically,776,TRUE,22,22,22,48
+Sākurriziš,14,15,24,Light mist,A few clouds,,Light air,1–3,W,Wind direction shown by smoke but not wind vanes,248,TRUE,22,22,22,48
+Sākurriziš,15,18,29,None,A few clouds,,Gentle breeze,8–12,S,Leaves and small twigs sway and banners flap,221,FALSE,22,22,22,48
+Sākurriziš,16,20,24,None,Clear,,Gentle breeze,8–12,W,Leaves and small twigs sway and banners flap,863,FALSE,22,22,22,48
+Sākurriziš,17,15,29,None,A few clouds,,Calm,<1,N,Smoke rises vertically,86,FALSE,22,22,22,48
+Sākurriziš,18,18,26,Drizzle,Mostly cloudy,,Light breeze,4–7,W,"Wind felt on face, leaves rustle, vanes move",273,TRUE,22,22,22,48
+Sākurriziš,19,17,29,None,Mostly cloudy,,Light breeze,4–7,SW,"Wind felt on face, leaves rustle, vanes move",914,FALSE,22,22,22,48
+Sākurriziš,20,16,24,None,Mostly cloudy,,Strong breeze,25–31,SE,Large branches move,851,FALSE,22,22,22,48
+Sākurriziš,21,17,25,None,Mostly cloudy,,Light breeze,4–7,S,"Wind felt on face, leaves rustle, vanes move",363,FALSE,22,22,22,48
+Sākurriziš,22,16,28,None,A few clouds,,Strong breeze,25–31,NW,Large branches move,901,FALSE,22,22,22,48
+Sākurriziš,23,18,28,None,Clear,,Gentle breeze,8–12,NW,Leaves and small twigs sway and banners flap,136,FALSE,22,22,22,48
+Sākurriziš,24,16,26,None,A few clouds,,Light breeze,4–7,NW,"Wind felt on face, leaves rustle, vanes move",12,FALSE,22,22,22,48
+Sākurriziš,25,20,25,None,Mostly cloudy,,Calm,<1,S,Smoke rises vertically,296,FALSE,22,22,22,48
+Sākurriziš,26,16,26,None,Mostly cloudy,,Light air,1–3,S,Wind direction shown by smoke but not wind vanes,94,FALSE,22,22,22,48
+Sākurriziš,27,15,29,None,Clear,,Strong breeze,25–31,W,Large branches move,701,FALSE,22,22,22,48
+Sākurriziš,28,18,25,None,Mostly cloudy,,Gentle breeze,8–12,SE,Leaves and small twigs sway and banners flap,107,FALSE,22,22,22,48
+Sākurriziš,29,19,27,None,A few clouds,,Moderate breeze,13–18,SE,"Small branches move, and dust and small branches are raised",833,FALSE,22,22,22,48
+Sākurriziš,30,18,24,Drizzle,Mostly cloudy,,Light air,1–3,SE,Wind direction shown by smoke but not wind vanes,27,TRUE,22,22,22,48
+Sākurriziš,31,15,24,Pounding rain,Dark storm clouds,,Moderate breeze,13–18,S,"Small branches move, and dust and small branches are raised",420,TRUE,22,22,22,48
+Sākurriziš,32,19,24,None,Clear,,Fresh breeze,19–24,E,Small trees sway and small waves form on inland waters,65,FALSE,22,22,22,48
+Sākurriziš,33,19,25,None,A few clouds,,Light air,1–3,E,Wind direction shown by smoke but not wind vanes,521,FALSE,22,22,22,48
+Sākurriziš,34,17,25,Strong rainfall,"Gray, highly overcast",,Light breeze,4–7,NW,"Wind felt on face, leaves rustle, vanes move",635,TRUE,22,22,22,48
+Sākurriziš,35,16,26,None,Clear,,Gentle breeze,8–12,E,Leaves and small twigs sway and banners flap,256,FALSE,22,22,22,48
+Sākurriziš,36,15,29,None,Mostly cloudy,,Gentle breeze,8–12,SW,Leaves and small twigs sway and banners flap,658,FALSE,22,22,22,48
+Sākurriziš,37,17,26,Steady rainfall,"Gray, slightly overcast",,Light breeze,4–7,W,"Wind felt on face, leaves rustle, vanes move",730,TRUE,22,22,22,48
+Sākurriziš,38,16,24,None,Clear,,Light air,1–3,E,Wind direction shown by smoke but not wind vanes,64,FALSE,22,22,22,48
+Sākurriziš,39,15,25,None,Clear,,Fresh breeze,19–24,NE,Small trees sway and small waves form on inland waters,132,FALSE,22,22,22,48
+Sākurriziš,40,19,29,None,Mostly cloudy,,Light air,1–3,W,Wind direction shown by smoke but not wind vanes,446,FALSE,22,22,22,48
+Sākurriziš,41,17,24,None,A few clouds,,Light air,1–3,S,Wind direction shown by smoke but not wind vanes,927,FALSE,22,22,22,48
+Sākurriziš,42,19,28,None,Clear,,Gentle breeze,8–12,W,Leaves and small twigs sway and banners flap,863,FALSE,22,22,22,48
+Sākurriziš,43,15,29,Drizzle,Mostly cloudy,,Gentle breeze,8–12,NW,Leaves and small twigs sway and banners flap,951,TRUE,22,22,22,48
+Sākurriziš,44,18,24,None,Clear,,Light air,1–3,SE,Wind direction shown by smoke but not wind vanes,173,FALSE,22,22,22,48
+Sākurriziš,45,20,24,None,Mostly cloudy,,Light breeze,4–7,N,"Wind felt on face, leaves rustle, vanes move",370,FALSE,22,22,22,48
+Sākurriziš,46,18,25,None,Mostly cloudy,,Strong breeze,25–31,NW,Large branches move,186,FALSE,22,22,22,48
+Sākurriziš,47,19,27,Downpour,Dark storm clouds,,Moderate breeze,13–18,W,"Small branches move, and dust and small branches are raised",439,TRUE,22,22,22,48
+Sākurriziš,48,18,25,Strong rainfall,"Gray, highly overcast",,Gentle breeze,8–12,S,Leaves and small twigs sway and banners flap,419,TRUE,22,22,22,48
+Dumuzu,1,18,25,None,Clear,,Light air,1–3,NW,Wind direction shown by smoke but not wind vanes,332,FALSE,22,18,22,48
+Dumuzu,2,18,27,Drizzle,Mostly cloudy,,Calm,<1,SE,Smoke rises vertically,885,TRUE,22,18,22,48
+Dumuzu,3,17,28,None,Clear,,Calm,<1,NE,Smoke rises vertically,920,FALSE,22,18,22,48
+Dumuzu,4,18,26,None,Clear,,Light air,1–3,SW,Wind direction shown by smoke but not wind vanes,696,FALSE,22,18,22,48
+Dumuzu,5,17,25,None,Clear,,Moderate breeze,13–18,SW,"Small branches move, and dust and small branches are raised",877,FALSE,22,18,22,48
+Dumuzu,6,16,27,Steady rainfall,"Gray, slightly overcast",,Gentle breeze,8–12,NW,Leaves and small twigs sway and banners flap,136,TRUE,22,18,22,48
+Dumuzu,7,20,25,Pounding rain,Dark storm clouds,Hail,Moderate breeze,13–18,E,"Small branches move, and dust and small branches are raised",780,TRUE,22,18,22,48
+Dumuzu,8,20,24,Steady rainfall,"Gray, slightly overcast",,Light breeze,4–7,N,"Wind felt on face, leaves rustle, vanes move",784,TRUE,22,18,22,48
+Dumuzu,9,20,26,Drizzle,Mostly cloudy,Fog,Light air,1–3,SW,Wind direction shown by smoke but not wind vanes,375,TRUE,22,18,22,48
+Dumuzu,10,19,28,None,Mostly cloudy,,Light breeze,4–7,N,"Wind felt on face, leaves rustle, vanes move",766,FALSE,22,18,22,48
+Dumuzu,11,18,28,None,Clear,,Light air,1–3,NE,Wind direction shown by smoke but not wind vanes,340,FALSE,22,18,22,48
+Dumuzu,12,19,25,Drizzle,Mostly cloudy,,Light breeze,4–7,W,"Wind felt on face, leaves rustle, vanes move",657,TRUE,22,18,22,48
+Dumuzu,13,16,25,None,A few clouds,,Calm,<1,N,Smoke rises vertically,422,FALSE,22,18,22,48
+Dumuzu,14,20,28,None,Mostly cloudy,,Light breeze,4–7,S,"Wind felt on face, leaves rustle, vanes move",310,FALSE,22,18,22,48
+Dumuzu,15,15,28,None,Clear,,Strong breeze,25–31,W,Large branches move,91,FALSE,22,18,22,48
+Dumuzu,16,18,25,Downpour,Dark storm clouds,Lightning,Calm,<1,S,Smoke rises vertically,955,TRUE,22,18,22,48
+Dumuzu,17,15,28,Drizzle,Mostly cloudy,,Light air,1–3,S,Wind direction shown by smoke but not wind vanes,705,TRUE,22,18,22,48
+Dumuzu,18,19,26,None,Clear,,Light breeze,4–7,S,"Wind felt on face, leaves rustle, vanes move",459,FALSE,22,18,22,48
+Dumuzu,19,15,28,Drizzle,Mostly cloudy,,Calm,<1,SE,Smoke rises vertically,885,TRUE,22,18,22,48
+Dumuzu,20,20,26,None,Clear,,Strong breeze,25–31,NE,Large branches move,595,FALSE,22,18,22,48
+Dumuzu,21,15,29,None,Clear,,Light breeze,4–7,NW,"Wind felt on face, leaves rustle, vanes move",252,FALSE,22,18,22,48
+Dumuzu,22,20,28,None,Clear,,Light breeze,4–7,S,"Wind felt on face, leaves rustle, vanes move",389,FALSE,22,18,22,48
+Dumuzu,23,15,25,Strong rainfall,"Gray, highly overcast",Hail,Moderate breeze,13–18,SE,"Small branches move, and dust and small branches are raised",305,TRUE,22,18,22,48
+Dumuzu,24,19,24,Light mist,A few clouds,,Light breeze,4–7,NW,"Wind felt on face, leaves rustle, vanes move",746,TRUE,22,18,22,48
+Dumuzu,25,15,25,Downpour,Dark storm clouds,Lightning,Strong breeze,25–31,NW,Large branches move,901,TRUE,22,18,22,48
+Dumuzu,26,15,28,Drizzle,Mostly cloudy,,Light breeze,4–7,SW,"Wind felt on face, leaves rustle, vanes move",279,TRUE,22,18,22,48
+Dumuzu,27,18,27,Steady rainfall,"Gray, slightly overcast",,Light air,1–3,W,Wind direction shown by smoke but not wind vanes,700,TRUE,22,18,22,48
+Dumuzu,28,15,25,Pounding rain,Dark storm clouds,,Moderate gale,32–38,NW,Whole trees sway and walking against wind takes some effort,168,TRUE,22,18,22,48
+Dumuzu,29,15,26,None,Mostly cloudy,,Light air,1–3,NE,Wind direction shown by smoke but not wind vanes,524,FALSE,22,18,22,48
+Dumuzu,30,16,25,None,Clear,,Fresh breeze,19–24,W,Small trees sway and small waves form on inland waters,85,FALSE,22,18,22,48
+Dumuzu,31,18,28,None,Mostly cloudy,,Fresh breeze,19–24,S,Small trees sway and small waves form on inland waters,665,FALSE,22,18,22,48
+Dumuzu,32,16,27,None,A few clouds,,Light air,1–3,E,Wind direction shown by smoke but not wind vanes,521,FALSE,22,18,22,48
+Dumuzu,33,17,29,None,Clear,,Light air,1–3,S,Wind direction shown by smoke but not wind vanes,206,FALSE,22,18,22,48
+Dumuzu,34,19,29,None,Mostly cloudy,,Fresh gale,39–46,W,Twigs break off trees and general progress is impeded,630,FALSE,22,18,22,48
+Dumuzu,35,20,27,None,Mostly cloudy,,Gentle breeze,8–12,W,Leaves and small twigs sway and banners flap,431,FALSE,22,18,22,48
+Dumuzu,36,15,25,None,A few clouds,,Light air,1–3,NE,Wind direction shown by smoke but not wind vanes,170,FALSE,22,18,22,48
+Dumuzu,37,15,28,Strong rainfall,"Gray, highly overcast",,Gentle breeze,8–12,SE,Leaves and small twigs sway and banners flap,29,TRUE,22,18,22,48
+Dumuzu,38,16,26,Drizzle,Mostly cloudy,,Light air,1–3,W,Wind direction shown by smoke but not wind vanes,825,TRUE,22,18,22,48
+Dumuzu,39,19,25,Steady rainfall,"Gray, slightly overcast",,Light air,1–3,S,Wind direction shown by smoke but not wind vanes,496,TRUE,22,18,22,48
+Dumuzu,40,19,24,Light mist,A few clouds,Fog,Light breeze,4–7,NW,"Wind felt on face, leaves rustle, vanes move",596,TRUE,22,18,22,48
+Dumuzu,41,15,26,None,Clear,,Moderate breeze,13–18,S,"Small branches move, and dust and small branches are raised",336,FALSE,22,18,22,48
+Dumuzu,42,19,26,None,A few clouds,,Light air,1–3,E,Wind direction shown by smoke but not wind vanes,915,FALSE,22,18,22,48
+Dumuzu,43,16,25,None,Clear,,Calm,<1,NW,Smoke rises vertically,237,FALSE,22,18,22,48
+Dumuzu,44,16,25,None,A few clouds,,Strong gale,47–54,W,Slight structural damage occurs,589,FALSE,22,18,22,48
+Dumuzu,45,16,26,Strong rainfall,"Gray, highly overcast",,Gentle breeze,8–12,S,Leaves and small twigs sway and banners flap,221,TRUE,22,18,22,48
+Dumuzu,46,17,28,None,Clear,,Light breeze,4–7,NE,"Wind felt on face, leaves rustle, vanes move",447,FALSE,22,18,22,48
+Dumuzu,47,16,28,None,Mostly cloudy,,Light breeze,4–7,SW,"Wind felt on face, leaves rustle, vanes move",440,FALSE,22,18,22,48
+Dumuzu,48,15,25,Light mist,A few clouds,,Light air,1–3,N,Wind direction shown by smoke but not wind vanes,2,TRUE,22,18,22,48
+Tammūz,1,11,23,None,Clear,,Light breeze,4–7,SE,"Wind felt on face, leaves rustle, vanes move",934,FALSE,18,22,18,48
+Tammūz,2,16,24,None,Mostly cloudy,,Light air,1–3,W,Wind direction shown by smoke but not wind vanes,825,FALSE,18,22,18,48
+Tammūz,3,11,24,Drizzle,Mostly cloudy,,Light breeze,4–7,W,"Wind felt on face, leaves rustle, vanes move",831,TRUE,18,22,18,48
+Tammūz,4,13,20,Light mist,A few clouds,,Calm,<1,NE,Smoke rises vertically,926,TRUE,18,22,18,48
+Tammūz,5,14,24,None,A few clouds,,Moderate gale,32–38,E,Whole trees sway and walking against wind takes some effort,265,FALSE,18,22,18,48
+Tammūz,6,15,20,Pounding rain,Dark storm clouds,Lightning,Moderate breeze,13–18,S,"Small branches move, and dust and small branches are raised",180,TRUE,18,22,18,48
+Tammūz,7,14,25,None,Clear,,Fresh breeze,19–24,S,Small trees sway and small waves form on inland waters,395,FALSE,18,22,18,48
+Tammūz,8,15,24,None,Mostly cloudy,,Light breeze,4–7,S,"Wind felt on face, leaves rustle, vanes move",982,FALSE,18,22,18,48
+Tammūz,9,13,25,None,Clear,,Gentle breeze,8–12,N,Leaves and small twigs sway and banners flap,418,FALSE,18,22,18,48
+Tammūz,10,15,25,None,Clear,,Light breeze,4–7,SW,"Wind felt on face, leaves rustle, vanes move",440,FALSE,18,22,18,48
+Tammūz,11,14,20,None,A few clouds,,Calm,<1,NE,Smoke rises vertically,920,FALSE,18,22,18,48
+Tammūz,12,11,25,None,A few clouds,,Calm,<1,SW,Smoke rises vertically,303,FALSE,18,22,18,48
+Tammūz,13,13,21,Drizzle,Mostly cloudy,,Light air,1–3,SE,Wind direction shown by smoke but not wind vanes,945,TRUE,18,22,18,48
+Tammūz,14,11,25,None,Mostly cloudy,,Light breeze,4–7,NW,"Wind felt on face, leaves rustle, vanes move",542,FALSE,18,22,18,48
+Tammūz,15,13,20,None,Clear,,Light breeze,4–7,E,"Wind felt on face, leaves rustle, vanes move",604,FALSE,18,22,18,48
+Tammūz,16,13,23,None,Clear,,Moderate gale,32–38,N,Whole trees sway and walking against wind takes some effort,907,FALSE,18,22,18,48
+Tammūz,17,13,23,None,Clear,,Moderate breeze,13–18,NE,"Small branches move, and dust and small branches are raised",245,FALSE,18,22,18,48
+Tammūz,18,13,22,None,Mostly cloudy,,Light air,1–3,S,Wind direction shown by smoke but not wind vanes,845,FALSE,18,22,18,48
+Tammūz,19,16,25,None,Clear,,Light breeze,4–7,E,"Wind felt on face, leaves rustle, vanes move",623,FALSE,18,22,18,48
+Tammūz,20,14,25,None,Mostly cloudy,,Calm,<1,N,Smoke rises vertically,86,FALSE,18,22,18,48
+Tammūz,21,11,25,None,Clear,,Gentle breeze,8–12,SW,Leaves and small twigs sway and banners flap,655,FALSE,18,22,18,48
+Tammūz,22,15,20,Light mist,A few clouds,,Calm,<1,NE,Smoke rises vertically,926,TRUE,18,22,18,48
+Tammūz,23,12,20,Drizzle,Mostly cloudy,,Light breeze,4–7,E,"Wind felt on face, leaves rustle, vanes move",627,TRUE,18,22,18,48
+Tammūz,24,12,23,Strong rainfall,"Gray, highly overcast",,Light breeze,4–7,S,"Wind felt on face, leaves rustle, vanes move",389,TRUE,18,22,18,48
+Tammūz,25,11,24,None,Clear,,Light air,1–3,N,Wind direction shown by smoke but not wind vanes,946,FALSE,18,22,18,48
+Tammūz,26,16,21,None,A few clouds,,Light breeze,4–7,N,"Wind felt on face, leaves rustle, vanes move",212,FALSE,18,22,18,48
+Tammūz,27,11,24,None,A few clouds,,Moderate breeze,13–18,E,"Small branches move, and dust and small branches are raised",731,FALSE,18,22,18,48
+Tammūz,28,13,20,None,A few clouds,,Calm,<1,N,Smoke rises vertically,86,FALSE,18,22,18,48
+Tammūz,29,11,23,None,Mostly cloudy,,Fresh breeze,19–24,N,Small trees sway and small waves form on inland waters,810,FALSE,18,22,18,48
+Tammūz,30,16,23,Drizzle,Mostly cloudy,,Light air,1–3,SE,Wind direction shown by smoke but not wind vanes,945,TRUE,18,22,18,48
+Tammūz,31,14,22,None,Clear,,Moderate breeze,13–18,W,"Small branches move, and dust and small branches are raised",162,FALSE,18,22,18,48
+Tammūz,32,16,23,None,Mostly cloudy,,Light breeze,4–7,S,"Wind felt on face, leaves rustle, vanes move",815,FALSE,18,22,18,48
+Tammūz,33,11,23,Drizzle,Mostly cloudy,,Calm,<1,SW,Smoke rises vertically,405,TRUE,18,22,18,48
+Tammūz,34,16,25,None,Mostly cloudy,,Light breeze,4–7,SE,"Wind felt on face, leaves rustle, vanes move",489,FALSE,18,22,18,48
+Tammūz,35,12,20,None,Clear,,Light breeze,4–7,NW,"Wind felt on face, leaves rustle, vanes move",912,FALSE,18,22,18,48
+Tammūz,36,16,25,Steady rainfall,"Gray, slightly overcast",Hail,Light breeze,4–7,NE,"Wind felt on face, leaves rustle, vanes move",514,TRUE,18,22,18,48
+Tammūz,37,13,24,None,Mostly cloudy,,Gentle breeze,8–12,SE,Leaves and small twigs sway and banners flap,435,FALSE,18,22,18,48
+Tammūz,38,16,20,None,Clear,,Light breeze,4–7,S,"Wind felt on face, leaves rustle, vanes move",867,FALSE,18,22,18,48
+Tammūz,39,14,24,Pounding rain,Dark storm clouds,,Moderate breeze,13–18,S,"Small branches move, and dust and small branches are raised",948,TRUE,18,22,18,48
+Tammūz,40,14,21,Light mist,A few clouds,,Light breeze,4–7,E,"Wind felt on face, leaves rustle, vanes move",656,TRUE,18,22,18,48
+Tammūz,41,16,21,None,Mostly cloudy,,Light breeze,4–7,S,"Wind felt on face, leaves rustle, vanes move",159,FALSE,18,22,18,48
+Tammūz,42,15,24,Strong rainfall,"Gray, highly overcast",,Gentle breeze,8–12,S,Leaves and small twigs sway and banners flap,221,TRUE,18,22,18,48
+Tammūz,43,14,24,None,Mostly cloudy,,Strong breeze,25–31,W,Large branches move,185,FALSE,18,22,18,48
+Tammūz,44,16,21,Downpour,Dark storm clouds,Lightning,Fresh breeze,19–24,SE,Small trees sway and small waves form on inland waters,259,TRUE,18,22,18,48
+Tammūz,45,12,25,Downpour,Dark storm clouds,Hail,Moderate gale,32–38,NE,Whole trees sway and walking against wind takes some effort,733,TRUE,18,22,18,48
+Tammūz,46,16,22,Light mist,A few clouds,,Light air,1–3,S,Wind direction shown by smoke but not wind vanes,692,TRUE,18,22,18,48
+Tammūz,47,14,22,Light mist,A few clouds,,Light air,1–3,NE,Wind direction shown by smoke but not wind vanes,236,TRUE,18,22,18,48
+Tammūz,48,15,20,None,Clear,,Gentle breeze,8–12,NE,Leaves and small twigs sway and banners flap,124,FALSE,18,22,18,48
+Samiyamaš,1,15,26,None,A few clouds,,Light breeze,4–7,SE,"Wind felt on face, leaves rustle, vanes move",818,FALSE,22,32,22,48
+Samiyamaš,2,20,29,Strong rainfall,"Gray, highly overcast",,Gentle breeze,8–12,NE,Leaves and small twigs sway and banners flap,101,TRUE,22,32,22,48
+Samiyamaš,3,19,28,Light mist,A few clouds,Fog,Light air,1–3,NE,Wind direction shown by smoke but not wind vanes,272,TRUE,22,32,22,48
+Samiyamaš,4,15,28,Light mist,A few clouds,,Calm,<1,NE,Smoke rises vertically,194,TRUE,22,32,22,48
+Samiyamaš,5,18,26,None,Mostly cloudy,,Light breeze,4–7,S,"Wind felt on face, leaves rustle, vanes move",895,FALSE,22,32,22,48
+Samiyamaš,6,20,26,None,Mostly cloudy,,Strong breeze,25–31,E,Large branches move,707,FALSE,22,32,22,48
+Samiyamaš,7,15,25,None,A few clouds,,Light breeze,4–7,W,"Wind felt on face, leaves rustle, vanes move",483,FALSE,22,32,22,48
+Samiyamaš,8,20,25,Steady rainfall,"Gray, slightly overcast",,Gentle breeze,8–12,NW,Leaves and small twigs sway and banners flap,136,TRUE,22,32,22,48
+Samiyamaš,9,17,24,Downpour,Dark storm clouds,Hail,Fresh gale,39–46,NW,Twigs break off trees and general progress is impeded,847,TRUE,22,32,22,48
+Samiyamaš,10,18,28,Pounding rain,Dark storm clouds,Hail,Strong breeze,25–31,W,Large branches move,270,TRUE,22,32,22,48
+Samiyamaš,11,18,27,None,A few clouds,,Light breeze,4–7,NW,"Wind felt on face, leaves rustle, vanes move",694,FALSE,22,32,22,48
+Samiyamaš,12,17,29,None,Mostly cloudy,,Light breeze,4–7,N,"Wind felt on face, leaves rustle, vanes move",554,FALSE,22,32,22,48
+Samiyamaš,13,18,26,Drizzle,Mostly cloudy,,Light air,1–3,SW,Wind direction shown by smoke but not wind vanes,477,TRUE,22,32,22,48
+Samiyamaš,14,20,29,None,Mostly cloudy,,Gentle breeze,8–12,SW,Leaves and small twigs sway and banners flap,562,FALSE,22,32,22,48
+Samiyamaš,15,16,28,Steady rainfall,"Gray, slightly overcast",,Gentle breeze,8–12,E,Leaves and small twigs sway and banners flap,352,TRUE,22,32,22,48
+Samiyamaš,16,19,27,None,A few clouds,,Fresh breeze,19–24,W,Small trees sway and small waves form on inland waters,673,FALSE,22,32,22,48
+Samiyamaš,17,17,29,None,Mostly cloudy,,Calm,<1,SE,Smoke rises vertically,218,FALSE,22,32,22,48
+Samiyamaš,18,19,28,Strong rainfall,"Gray, highly overcast",,Moderate breeze,13–18,N,"Small branches move, and dust and small branches are raised",515,TRUE,22,32,22,48
+Samiyamaš,19,15,28,Strong rainfall,"Gray, highly overcast",,Fresh breeze,19–24,SW,Small trees sway and small waves form on inland waters,683,TRUE,22,32,22,48
+Samiyamaš,20,20,25,None,Mostly cloudy,,Calm,<1,NE,Smoke rises vertically,619,FALSE,22,32,22,48
+Samiyamaš,21,19,25,None,Clear,,Strong breeze,25–31,E,Large branches move,55,FALSE,22,32,22,48
+Samiyamaš,22,16,25,None,A few clouds,,Fresh breeze,19–24,NW,Small trees sway and small waves form on inland waters,197,FALSE,22,32,22,48
+Samiyamaš,23,15,26,Steady rainfall,"Gray, slightly overcast",,Gentle breeze,8–12,NW,Leaves and small twigs sway and banners flap,136,TRUE,22,32,22,48
+Samiyamaš,24,15,28,Light mist,A few clouds,,Light air,1–3,NE,Wind direction shown by smoke but not wind vanes,908,TRUE,22,32,22,48
+Samiyamaš,25,19,27,None,Clear,,Fresh breeze,19–24,W,Small trees sway and small waves form on inland waters,779,FALSE,22,32,22,48
+Samiyamaš,26,16,26,None,Clear,,Gentle breeze,8–12,N,Leaves and small twigs sway and banners flap,814,FALSE,22,32,22,48
+Samiyamaš,27,19,26,None,A few clouds,,Light breeze,4–7,SE,"Wind felt on face, leaves rustle, vanes move",257,FALSE,22,32,22,48
+Samiyamaš,28,15,25,Pounding rain,Dark storm clouds,,Light breeze,4–7,SW,"Wind felt on face, leaves rustle, vanes move",198,TRUE,22,32,22,48
+Samiyamaš,29,20,26,None,Clear,,Strong breeze,25–31,W,Large branches move,54,FALSE,22,32,22,48
+Samiyamaš,30,15,26,Downpour,Dark storm clouds,,Gentle breeze,8–12,NE,Leaves and small twigs sway and banners flap,181,TRUE,22,32,22,48
+Samiyamaš,31,18,29,None,A few clouds,,Gentle breeze,8–12,NW,Leaves and small twigs sway and banners flap,137,FALSE,22,32,22,48
+Samiyamaš,32,18,25,None,Clear,,Light breeze,4–7,E,"Wind felt on face, leaves rustle, vanes move",743,FALSE,22,32,22,48
+Samiyamaš,33,21,26,None,Mostly cloudy,,Strong breeze,25–31,SE,Large branches move,355,FALSE,22,32,23,48
+Samiyamaš,34,18,31,Steady rainfall,"Gray, slightly overcast",,Light air,1–3,SW,Wind direction shown by smoke but not wind vanes,928,TRUE,22,32,24,48
+Samiyamaš,35,23,32,Downpour,Dark storm clouds,,Moderate breeze,13–18,E,"Small branches move, and dust and small branches are raised",79,TRUE,22,32,25,48
+Samiyamaš,36,23,33,Steady rainfall,"Gray, slightly overcast",,Light breeze,4–7,E,"Wind felt on face, leaves rustle, vanes move",688,TRUE,22,32,26,48
+Samiyamaš,37,25,31,None,Mostly cloudy,,Light breeze,4–7,SW,"Wind felt on face, leaves rustle, vanes move",914,FALSE,22,32,27,48
+Samiyamaš,38,21,35,Drizzle,Mostly cloudy,,Light breeze,4–7,SE,"Wind felt on face, leaves rustle, vanes move",291,TRUE,22,32,28,48
+Samiyamaš,39,22,35,Pounding rain,Dark storm clouds,,Light breeze,4–7,SW,"Wind felt on face, leaves rustle, vanes move",714,TRUE,22,32,29,48
+Samiyamaš,40,28,34,None,A few clouds,,Light breeze,4–7,NW,"Wind felt on face, leaves rustle, vanes move",635,FALSE,22,32,30,48
+Samiyamaš,41,25,38,Steady rainfall,"Gray, slightly overcast",,Gentle breeze,8–12,N,Leaves and small twigs sway and banners flap,814,TRUE,22,32,31,48
+Samiyamaš,42,25,37,Downpour,Dark storm clouds,,Strong breeze,25–31,E,Large branches move,973,TRUE,22,32,32,48
+Samiyamaš,43,28,38,None,Mostly cloudy,,Light air,1–3,S,Wind direction shown by smoke but not wind vanes,927,FALSE,22,32,33,48
+Samiyamaš,44,32,36,Strong rainfall,"Gray, highly overcast",,Light breeze,4–7,E,"Wind felt on face, leaves rustle, vanes move",713,TRUE,22,32,34,48
+Samiyamaš,45,30,40,None,Clear,,Fresh breeze,19–24,NW,Small trees sway and small waves form on inland waters,5,FALSE,22,32,35,48
+Samiyamaš,46,29,41,None,Clear,,Light air,1–3,SW,Wind direction shown by smoke but not wind vanes,381,FALSE,22,32,36,48
+Samiyamaš,47,34,44,None,Mostly cloudy,,Light air,1–3,S,Wind direction shown by smoke but not wind vanes,962,FALSE,22,32,37,48
+Samiyamaš,48,33,45,None,Clear,,Fresh gale,39–46,N,Twigs break off trees and general progress is impeded,841,FALSE,22,32,38,48
+Arya,1,29,35,None,Clear,,Fresh breeze,19–24,SW,Small trees sway and small waves form on inland waters,727,FALSE,32,,32,48
+Arya,2,27,39,None,A few clouds,,Strong breeze,25–31,W,Large branches move,167,FALSE,32,,32,48
+Arya,3,26,39,None,Clear,,Strong breeze,25–31,NW,Large branches move,901,FALSE,32,,32,48
+Arya,4,27,37,Light mist,A few clouds,,Calm,<1,SE,Smoke rises vertically,560,TRUE,32,,32,48
+Arya,5,27,37,Strong rainfall,"Gray, highly overcast",,Light breeze,4–7,S,"Wind felt on face, leaves rustle, vanes move",905,TRUE,32,,32,48
+Arya,6,30,34,None,Mostly cloudy,,Calm,<1,N,Smoke rises vertically,860,FALSE,32,,32,48
+Arya,7,30,37,None,Mostly cloudy,,Moderate breeze,13–18,NE,"Small branches move, and dust and small branches are raised",245,FALSE,32,,32,48
+Arya,8,25,38,Strong rainfall,"Gray, highly overcast",,Moderate breeze,13–18,N,"Small branches move, and dust and small branches are raised",461,TRUE,32,,32,48
+Arya,9,25,38,None,Mostly cloudy,,Light breeze,4–7,E,"Wind felt on face, leaves rustle, vanes move",316,FALSE,32,,32,48
+Arya,10,28,37,None,Clear,,Light air,1–3,W,Wind direction shown by smoke but not wind vanes,188,FALSE,32,,32,48
+Arya,11,29,35,Strong rainfall,"Gray, highly overcast",,Light breeze,4–7,SE,"Wind felt on face, leaves rustle, vanes move",647,TRUE,32,,32,48
+Arya,12,27,35,None,Clear,,Moderate breeze,13–18,NE,"Small branches move, and dust and small branches are raised",964,FALSE,32,,32,48
+Arya,13,28,34,None,Clear,,Hurricane,73–136,SE,Widespread devastation occurs,73,FALSE,32,,32,48
+Arya,14,26,34,Strong rainfall,"Gray, highly overcast",Hail,Strong breeze,25–31,S,Large branches move,371,TRUE,32,,32,48
+Arya,15,28,34,Downpour,Dark storm clouds,,Strong breeze,25–31,E,Large branches move,55,TRUE,32,,32,48
+Arya,16,27,38,None,A few clouds,,Calm,<1,NW,Smoke rises vertically,883,FALSE,32,,32,48
+Arya,17,25,38,Downpour,Dark storm clouds,Lightning,Light breeze,4–7,NW,"Wind felt on face, leaves rustle, vanes move",781,TRUE,32,,32,48
+Arya,18,29,39,None,Clear,,Fresh breeze,19–24,SW,Small trees sway and small waves form on inland waters,852,FALSE,32,,32,48
+Arya,19,26,37,Downpour,Dark storm clouds,Lightning,Gentle breeze,8–12,E,Leaves and small twigs sway and banners flap,289,TRUE,32,,32,48
+Arya,20,25,34,Downpour,Dark storm clouds,,Moderate gale,32–38,NE,Whole trees sway and walking against wind takes some effort,979,TRUE,32,,32,48
+Arya,21,27,38,None,Clear,,Strong breeze,25–31,N,Large branches move,899,FALSE,32,,32,48
+Arya,22,25,37,Drizzle,Mostly cloudy,,Calm,<1,N,Smoke rises vertically,429,TRUE,32,,32,48
+Arya,23,26,34,Pounding rain,Dark storm clouds,,Moderate breeze,13–18,S,"Small branches move, and dust and small branches are raised",948,TRUE,32,,32,48
+Arya,24,30,34,Strong rainfall,"Gray, highly overcast",,Gentle breeze,8–12,E,Leaves and small twigs sway and banners flap,563,TRUE,32,,32,48
+Arya,25,27,34,Strong rainfall,"Gray, highly overcast",,Light breeze,4–7,S,"Wind felt on face, leaves rustle, vanes move",293,TRUE,32,,32,48
+Arya,26,25,35,None,Clear,,Gentle breeze,8–12,NW,Leaves and small twigs sway and banners flap,40,FALSE,32,,32,48
+Arya,27,30,34,Steady rainfall,"Gray, slightly overcast",,Light breeze,4–7,S,"Wind felt on face, leaves rustle, vanes move",844,TRUE,32,,32,48
+Arya,28,27,36,None,Clear,,Light breeze,4–7,NE,"Wind felt on face, leaves rustle, vanes move",906,FALSE,32,,32,48
+Arya,29,26,35,Steady rainfall,"Gray, slightly overcast",,Light air,1–3,W,Wind direction shown by smoke but not wind vanes,736,TRUE,32,,32,48
+Arya,30,28,34,Light mist,A few clouds,Fog,Light air,1–3,NE,Wind direction shown by smoke but not wind vanes,170,TRUE,32,,32,48
+Arya,31,30,39,Strong rainfall,"Gray, highly overcast",,Light air,1–3,NW,Wind direction shown by smoke but not wind vanes,497,TRUE,32,,32,48
+Arya,32,30,36,None,Clear,,Strong breeze,25–31,E,Large branches move,205,FALSE,32,,32,48
+Arya,33,30,39,Light mist,A few clouds,,Light air,1–3,S,Wind direction shown by smoke but not wind vanes,128,TRUE,32,,32,48
+Arya,34,30,36,Light mist,A few clouds,,Light air,1–3,W,Wind direction shown by smoke but not wind vanes,26,TRUE,32,,32,48
+Arya,35,29,35,None,A few clouds,,Moderate gale,32–38,E,Whole trees sway and walking against wind takes some effort,265,FALSE,32,,32,48
+Arya,36,30,38,Strong rainfall,"Gray, highly overcast",,Light air,1–3,NW,Wind direction shown by smoke but not wind vanes,593,TRUE,32,,32,48
+Arya,37,28,35,None,A few clouds,,Fresh breeze,19–24,S,Small trees sway and small waves form on inland waters,395,FALSE,32,,32,48
+Arya,38,27,37,None,Clear,,Calm,<1,NW,Smoke rises vertically,434,FALSE,32,,32,48
+Arya,39,26,36,None,Clear,,Gentle breeze,8–12,NW,Leaves and small twigs sway and banners flap,460,FALSE,32,,32,48
+Arya,40,30,38,Steady rainfall,"Gray, slightly overcast",,Light breeze,4–7,N,"Wind felt on face, leaves rustle, vanes move",766,TRUE,32,,32,48
+Arya,41,26,39,Light mist,A few clouds,,Light air,1–3,SW,Wind direction shown by smoke but not wind vanes,812,TRUE,32,,32,48
+Arya,42,29,34,Drizzle,Mostly cloudy,,Light breeze,4–7,W,"Wind felt on face, leaves rustle, vanes move",747,TRUE,32,,32,48
+Arya,43,26,35,None,Clear,,Light air,1–3,NE,Wind direction shown by smoke but not wind vanes,398,FALSE,32,,32,48
+Arya,44,26,38,None,A few clouds,,Light air,1–3,S,Wind direction shown by smoke but not wind vanes,555,FALSE,32,,32,48
+Arya,45,28,38,None,Clear,,Fresh breeze,19–24,S,Small trees sway and small waves form on inland waters,143,FALSE,32,,32,48
+Arya,46,29,35,Drizzle,Mostly cloudy,,Light breeze,4–7,W,"Wind felt on face, leaves rustle, vanes move",831,TRUE,32,,32,48
+Arya,47,29,36,Light mist,A few clouds,,Light air,1–3,NE,Wind direction shown by smoke but not wind vanes,728,TRUE,32,,32,48
+Arya,48,30,39,Downpour,Dark storm clouds,,Light breeze,4–7,NW,"Wind felt on face, leaves rustle, vanes move",913,TRUE,32,,32,48
+#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,Light breeze,4–7,SE,"Wind felt on face, leaves rustle, vanes move",257,#N/A,#N/A,#N/A,#N/A,#N/A
