@@ -6,6 +6,7 @@ import csv
 encounter_table = pd.read_csv('tables/Encounter table - Ark 1.csv')
 weather_table = pd.read_csv('tables/year900 - Ark 1.csv')
 hazard_table = pd.read_csv('tables/hazard - Ark 1.csv')
+treasure_table = pd.read_csv('tables/treasure - Ark 1.csv')
 
 # Function to lookup weather based on month and day
 def lookup_weather(month, day):
@@ -65,7 +66,7 @@ def generate_encounter(biome):
     # Roll for encounter type
     biome = biome.lower()
     encounter = None
-    encounter_type = random.choices(['combat', 'hazard', 'treasure'], weights=[0.5, 0.4, 0.1])[0]
+    encounter_type = random.choices(['combat', 'hazard', 'treasure'], weights=[0.6, 0.3, 0.1])[0]
     
     if encounter_type == 'combat':
         biome_encounters = encounter_table[encounter_table['Biome'] == biome]
@@ -76,14 +77,9 @@ def generate_encounter(biome):
         random_row = biome_hazards.sample(n=1)
         encounter = random_row[['Hazard', 'DC', 'Consequence']].values.tolist()[0]
     else:
-        encounter = "You find a hidden treasure chest."
-    
-    # Roll for encounter time
-    available_times = ['early', 'late', 'night']
-    encounter_time = random.choice(available_times)
-    available_times.remove(encounter_time)
-    
-    return encounter_type, encounter, encounter_time
+        encounter = random.choice(treasure_table['Treasure'])
+
+    return encounter_type, encounter
 
 #format day
 def format_day(day):
@@ -110,31 +106,38 @@ def generate_day(date, danger, biome):
     
     # Generate encounters based on danger level
     encounters = []
+    available_times = ['early', 'late', 'night']
     if danger == 'low':
         for _ in range(3):
             if random.random() < 0.1:
                 print(biome)
+                encounter_time = random.choice(available_times)
+                available_times.remove(encounter_time)
                 encounter_type, encounter, encounter_time = generate_encounter(biome)
                 encounters.append((encounter_type, encounter, encounter_time))
     elif danger == 'medium':
         for _ in range(3):
             if random.random() < 0.2:
+                encounter_time = random.choice(available_times)
+                available_times.remove(encounter_time)
                 encounter_type, encounter, encounter_time = generate_encounter(biome)
                 encounters.append((encounter_type, encounter, encounter_time))
     elif danger == 'high':
         for _ in range(3):
             if random.random() < 0.3:
-                encounter_type, encounter, encounter_time = generate_encounter(biome)
+                encounter_time = random.choice(available_times)
+                available_times.remove(encounter_time)
+                encounter_type, encounter = generate_encounter(biome)              
                 encounters.append((encounter_type, encounter, encounter_time))
     
     # Print day information
     print(f"Date: {date}")
     print(f"It is the {format_day(day)} of {nameOfTheMonth} ")
-    print(f"Weather: Temperature: {temperature}, Precipitation: {precipitation}, Clouds: {clouds}, Wind: {wind}")
+    print(f"Weather: Temperature: {temperature}C, Precipitation: {precipitation}, Clouds: {clouds}, Wind: {wind}")
     if encounters:
         print("Encounters:")
         for i, (encounter_type, encounter, encounter_time) in enumerate(encounters):
-            print(f"Encounter {i+1}: Type: {encounter_type}, Encounter: {encounter}, Time: {encounter_time}")
+            print(f"Encounter {i+1}: Type: {encounter_type}, {encounter}, Time of day: {encounter_time}")
     else:
         print("No encounters today.")
     
