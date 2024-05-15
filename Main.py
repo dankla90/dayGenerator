@@ -113,14 +113,14 @@ def generate_day(date, danger, biome):
                 print(biome)
                 encounter_time = random.choice(available_times)
                 available_times.remove(encounter_time)
-                encounter_type, encounter, encounter_time = generate_encounter(biome)
+                encounter_type, encounter = generate_encounter(biome)
                 encounters.append((encounter_type, encounter, encounter_time))
     elif danger == 'medium':
         for _ in range(3):
             if random.random() < 0.2:
                 encounter_time = random.choice(available_times)
                 available_times.remove(encounter_time)
-                encounter_type, encounter, encounter_time = generate_encounter(biome)
+                encounter_type, encounter = generate_encounter(biome)
                 encounters.append((encounter_type, encounter, encounter_time))
     elif danger == 'high':
         for _ in range(3):
