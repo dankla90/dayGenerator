@@ -60,13 +60,12 @@ def get_user_input_date(prompt, default_choice):
                 print('Error: Invalid date format. Please enter the date in the format "month.day" (e.g., 1.15)')
     return result
 
-
 # Function to generate encounter
 def generate_encounter(biome):
     # Roll for encounter type
     biome = biome.lower()
     encounter = None
-    encounter_type = random.choices(['combat', 'hazard', 'treasure'], weights=[0.6, 0.3, 0.1])[0]
+    encounter_type = random.choices(['combat', 'hazard', 'treasure', 'fortuneteller'], weights=[0.5, 0.3, 0.1, 0.1])[0]
     
     if encounter_type == 'combat':
         biome_encounters = encounter_table[encounter_table['Biome'] == biome]
@@ -76,8 +75,11 @@ def generate_encounter(biome):
         biome_hazards = hazard_table[hazard_table['Biome'] == biome]
         random_row = biome_hazards.sample(n=1)
         encounter = random_row[['Hazard', 'DC', 'Consequence']].values.tolist()[0]
-    else:
+    elif encounter_type == 'treasure':
         encounter = random.choice(treasure_table['Treasure'])
+
+    else:
+        encounter = "You meet a fortuneteller, she will tell you your fortune."
 
     return encounter_type, encounter
 
